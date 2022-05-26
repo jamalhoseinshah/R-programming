@@ -1,2 +1,12 @@
 # R_Programming
-R offers a wide variety of statistics-related libraries and provides a favorable environment for statistical computing and design. In addition, the R programming language gets used by many quantitative analysts as a programming tool since it's useful for data importing and cleaning
+
+R is a language and environment for statistical computing and graphics. It is a GNU project which is similar to the S language and environment which was developed at Bell Laboratories by John Chambers and colleagues. R can be considered as a different implementation of S. R provides a wide variety of statistical and graphical techniques, and is highly extensible.
+
+The best way we learn anything is by practice and exercise questions. Here you have the opportunity to practice the R programming language concepts by solving the exercises starting from basic to more complex exercises. A sample solution is provided for each exercise. It is recommended to do these exercises by yourself first before checking the solution.
+
+Hope, these exercises help you to improve your R programming coding skills. Currently, following sections are available, we are working hard to add more exercises .... Happy Coding!
+
+Inlast, ALNAFI is great source online learning platform for cyber security, data science.
+
+Regards
+Jamal Hussain Shah 

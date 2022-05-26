@@ -6,7 +6,7 @@ The best way we learn anything is by practice and exercise questions. Here you h
 
 Hope, these exercises help you to improve your R programming coding skills. Currently, following sections are available, we are working hard to add more exercises .... Happy Coding!
 
-Inlast, ALNAFI is great source online learning platform for cyber security, data science.
+Inlast, ALNAFI is great source of online learning platform for cyber security, data science.
 
 Regards
 Jamal Hussain Shah 

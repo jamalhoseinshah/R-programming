@@ -1,6 +1,6 @@
-# Practice this book in order to master in  R pragramming and i have experienced this book is great source of learning and understand fully in term of coding and methnology of R programming.
+Practice this book in order to master in  R pragramming and i have experienced this book is great source of learning and understand fully in term of coding and methnology of R programming.
 
-# A FIRST COURSE IN R PROGRAMMING AND STATISTICS written by TILMAN M. DAVIES
+A FIRST COURSE IN R PROGRAMMING AND STATISTICS written by TILMAN M. DAVIES
 
 "R plays a key role in a wide variety of research and data analysis projects because it makes many modern statistical methods,
 both simple and advanced, readily available and easy to use. It’s true, however, that a beginner toR is often new to programming in general. 
